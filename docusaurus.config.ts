@@ -3,9 +3,9 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "TON ingerprints",
+  title: "TON Fingerprints",
   tagline:
-    "",
+    "This is a collection of 10 000 unique digital fingerprints created based on the algorithm for generating basic rings using a noise texture. Like human fingerprints, you can now use them for the Web3 and Metaverse era as digital biometric information on The Open Network.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -44,7 +44,8 @@ const config: Config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/ton-fingerprints/website.foundation/tree/main/",
+          editUrl:
+            "https://github.com/ton-fingerprints/website.foundation/tree/main/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -77,7 +78,7 @@ const config: Config = {
       ],
     },
     footer: {
-      style: "dark",
+      style: "light",
       links: [
         {
           title: "Docs",
