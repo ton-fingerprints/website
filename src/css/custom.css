@@ -6,8 +6,8 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #1e2337;
-  --ifm-color-primary-dark: #1e2337;
+  --ifm-color-primary: #0098ea;
+  --ifm-color-primary-dark: #0098ea;
   --ifm-color-primary-darker: #1e2337;
   --ifm-color-primary-darkest: #1e2337;
   --ifm-color-primary-light: #1e2337;
@@ -19,8 +19,8 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
-  --ifm-color-primary: #1e2337;
-  --ifm-color-primary-dark: #1e2337;
+  --ifm-color-primary: #0098ea;
+  --ifm-color-primary-dark: #0098ea;
   --ifm-color-primary-darker: #1e2337;
   --ifm-color-primary-darkest: #1e2337;
   --ifm-color-primary-light: #1e2337;
@@ -101,12 +101,4 @@
 
 .header-badges .header-badge .emoji-avatar {
   margin-right: 8px !important;
-}
-
-html[data-theme="dark"] footer {
-  background-color: #1e2337;
-}
-
-html[data-theme="light"] footer {
-  background-color: #f7f9fb;
 }
