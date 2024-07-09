@@ -1,0 +1,12 @@
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+fingerprints:
+  label: Fingerprints
+  permalink: /fingerprints
+  description: TON Fingerprints
+ton:
+  label: TON
+  permalink: /ton
+  description: The Open Network

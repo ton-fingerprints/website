@@ -1,0 +1,42 @@
+{
+  "link.title.Docs": {
+    "message": "Документы",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Сообщество",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Proposals": {
+    "message": "Предложения",
+    "description": "The label of footer link with label=Proposals linking to /docs/intro"
+  },
+  "link.item.label.Telegram Channel (EN)": {
+    "message": "Telegram канал (EN)",
+    "description": "The label of footer link with label=Telegram Channel (EN) linking to https://t.me/ton_fingerprints"
+  },
+  "link.item.label.Telegram Channel (RU": {
+    "message": "Telegram канал (RU",
+    "description": "The label of footer link with label=Telegram Channel (RU linking to https://t.me/ton_fingerprints_ru"
+  },
+  "link.item.label.Getgems": {
+    "message": "Getgems",
+    "description": "The label of footer link with label=Getgems linking to https://getgems.io/fingerprints"
+  },
+  "link.item.label.Blog": {
+    "message": "Блог",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/ton-fingerprints"
+  },
+  "copyright": {
+    "message": "CC0 2022-2024 TON Fingerprints. Built with The Open Network.",
+    "description": "The footer copyright"
+  }
+}
