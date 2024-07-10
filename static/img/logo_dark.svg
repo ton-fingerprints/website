@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.0"
-   width="550pt"
-   height="550pt"
-   viewBox="0 0 550 550"
+   width="700pt"
+   height="700pt"
+   viewBox="0 0 700 700"
    preserveAspectRatio="xMidYMid"
    id="svg10"
-   sodipodi:docname="1.svg"
+   sodipodi:docname="logo_dark.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -29,8 +29,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.42002143"
-     inkscape:cx="692.8218"
-     inkscape:cy="484.49909"
+     inkscape:cx="399.97959"
+     inkscape:cy="486.87992"
      inkscape:window-width="1920"
      inkscape:window-height="958"
      inkscape:window-x="0"
@@ -62,7 +62,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0.1,0,0,-0.1,-222.82244,774.453)"
+     transform="matrix(0.1,0,0,-0.1,-147.82244,849.453)"
      fill="#ffffff"
      stroke="none"
      id="g8">
@@ -73,8 +73,8 @@
   <rect
      style="fill:none;stroke-width:7.42393;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
      id="rect341"
-     width="550"
-     height="550"
-     x="5.6843419e-14"
-     y="-2.8421709e-14" />
+     width="700"
+     height="700"
+     x="-1.2621774e-29"
+     y="6.3108872e-30" />
 </svg>
