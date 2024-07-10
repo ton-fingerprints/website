@@ -36,7 +36,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/ton-fingerprints"
   },
   "copyright": {
-    "message": "CC0 2022-2024 TON Fingerprints. Built with The Open Network.",
+    "message": "CC0 2022-2024 TON Отпечатки. Сделано на The Open Network.",
     "description": "The footer copyright"
   }
 }
