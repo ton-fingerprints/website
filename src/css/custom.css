@@ -29,11 +29,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.navbar__title {
-  font-weight: 900;
-  color: #2188ee;
-}
-
 .header-badges {
   display: block;
   margin-bottom: 15px;
