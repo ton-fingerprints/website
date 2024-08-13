@@ -1,3 +1,10 @@
+---
+slug: variations
+title: Variations
+authors: roman
+tags: [variations, fingerprints]
+---
+
 # Variations
 
 Every Fingerprint can be composed of up to 10 properties:
@@ -12,3 +19,5 @@ Every Fingerprint can be composed of up to 10 properties:
 8. Integrated density - The sum of the values of the pixels in the image fingerprint
 9. Skewness - The third order moment about the mean
 10. Kurtosis - The fourth order moment about the mean
+
+![Variations](image.png)
