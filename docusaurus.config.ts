@@ -45,8 +45,7 @@ const config: Config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/ton-fingerprints/website.foundation/tree/main/",
+          editUrl: "https://github.com/ton-fingerprints/website/tree/main/blog",
         },
         theme: {
           customCss: "./src/css/custom.css",
